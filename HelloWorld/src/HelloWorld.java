@@ -5,7 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World");
-		System.out.println("No need to add any module");
+		System.out.println("2 No need to add any module");
 		System.out.println("Type few words & Control Space");
 	}
 
